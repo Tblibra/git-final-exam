@@ -1,0 +1,7 @@
+Mô tả tính năng mới:
+
+- Tính năng: Auto-save ghi chú
+- Mô tả: Khi người dùng soạn, tự động lưu tạm
+- Lợi ích: Tránh mất dữ liệu khi máy tắt
+- Ghi chú: Cần kiểm tra edge case
+- Thời gian hoàn thiện: 2 ngày
