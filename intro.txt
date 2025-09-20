@@ -14,3 +14,10 @@ ký năng
 lập trình c
 git cơ bản 
 quản lý dự án 
+ kế Hoạch học tập
+
+học git cơ bản trong 2 ngày 
+thực hành commit, branch,merge
+học cách xử lý xung đột 
+làm bài tập thực hành 
+ôn tập và tổng kết kiến thức
